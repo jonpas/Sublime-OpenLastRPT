@@ -18,3 +18,7 @@ Last RPT file can be opened using any of the following ways:
 - **Command Palette**
 - **Project Menu**
 - **Keybind**:  Windows / Linux: <kbd>Alt</kbd>+<kbd>a</kbd>+<kbd>r</kbd>, OS X: <kbd>Option</kbd>+<kbd>a</kbd>+<kbd>r</kbd>
+
+#### Tail Open RPT
+
+Use [AutoRefresh](https://github.com/Waterflames/AutoRefresh) (also available on [Sublime Package Control](https://packagecontrol.io/packages/Auto%20Refresh)) plugin to tail the open RPT file.
