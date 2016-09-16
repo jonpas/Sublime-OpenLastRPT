@@ -1,0 +1,3 @@
+[
+    { "keys": ["alt+a+r"], "command": "tail_last_rpt" },
+]
