@@ -4,12 +4,12 @@
     <img src="https://packagecontrol.herokuapp.com/downloads/OpenLastRPT.svg">
 </a>
 
-Open Last RPT plugin for Sublime Text 3 allows quick opening of the last Arma log file (`*.rpt`) using a keybind, command or menu.
+Open Last RPT plugin for Sublime Text 2/3 allows quick opening of the last Arma log file (`*.rpt`) using a keybind, command or menu.
 
 ### Installation
 
 - **Automated:** [Open Last RPT](https://sublime.wbond.net/packages/OpenLastRPT) using [Sublime Package Control](http://wbond.net/sublime_packages/package_control)
-- **Manual:** Clone this repository into your `Sublime Text 3/Packages`
+- **Manual:** Clone this repository into your `Sublime Text x/Packages`
 
 ### Usage
 
