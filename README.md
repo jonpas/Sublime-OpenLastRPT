@@ -8,7 +8,7 @@ Open Last RPT plugin for Sublime Text 2/3 allows quick opening of the last Arma 
 
 ### Installation
 
-- **Automated:** [Open Last RPT](https://sublime.wbond.net/packages/OpenLastRPT) using [Sublime Package Control](http://wbond.net/sublime_packages/package_control)
+- **Automated:** [OpenLastRPT](https://sublime.wbond.net/packages/OpenLastRPT) using [Sublime Package Control](http://wbond.net/sublime_packages/package_control)
 - **Manual:** Clone this repository into your `Sublime Text x/Packages`
 
 ### Usage
