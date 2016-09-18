@@ -17,7 +17,7 @@ Last RPT file can be opened using any of the following ways:
 
 - **Command Palette**
 - **Project Menu**
-- **Keybind**:  Windows / Linux: <kbd>Alt</kbd>+<kbd>a</kbd>+<kbd>r</kbd>, OS X: <kbd>Option</kbd>+<kbd>a</kbd>+<kbd>r</kbd>
+- **Keybind** (<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>r</kbd>)
 
 ## Tail Open RPT
 

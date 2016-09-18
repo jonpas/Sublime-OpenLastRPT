@@ -1,4 +1,3 @@
 [
-    { "keys": ["alt+a+r"], "command": "open_last_rpt" },
+    { "keys": ["ctrl+alt+r"], "command": "open_last_rpt" },
 ]
-
