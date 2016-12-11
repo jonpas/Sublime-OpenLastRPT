@@ -10,10 +10,10 @@
             {
                 "caption": "Open Last RPT",
                 "command": "open_last_rpt"
-            },
+            }
         ]
     },
-        {
+    {
         "caption": "Preferences",
         "mnemonic": "n",
         "id": "preferences",
@@ -75,7 +75,7 @@
                                     "file": "${packages}/User/Default (Windows).sublime-keymap",
                                     "platform": "Windows"
                                 },
-                            "caption": "Key Bindings – User"
+                                "caption": "Key Bindings – User"
                             }
                         ]
                     }
